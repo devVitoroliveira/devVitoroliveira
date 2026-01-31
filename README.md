@@ -42,12 +42,10 @@ Olá! Sou um desenvolvedor Back End focado em construir soluções eficientes e 
     src="https://github-readme-stats.vercel.app/api?username=devVitoroliveira&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHus" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=devVitoroliveira&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=1" 
+  <img 
+    align="left" 
+    alt="GitHub Languages" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devVitoroliveira&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=1" 
   />
-
 </p>
-       

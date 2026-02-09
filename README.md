@@ -39,7 +39,7 @@ Olá! Sou um desenvolvedor Back End focado em construir soluções eficientes e 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=devVitoroliveira&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+src="https://github-readme-stats-lovat-nine-58.vercel.app/api?username=devVitoroliveira&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br"
   />
 
   <img 

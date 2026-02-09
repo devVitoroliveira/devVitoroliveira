@@ -46,6 +46,6 @@ src="https://github-readme-stats-lovat-nine-58.vercel.app/api?username=devVitoro
     align="left" 
     alt="GitHub Languages" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devVitoroliveira&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=1" 
+src="https://github-readme-stats-lovat-nine-58.vercel.app/api/top-langs/?username=devVitoroliveira&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=1"
   />
 </p>

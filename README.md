@@ -1,6 +1,25 @@
-# My Project
+# Vitor Oliveira
 
-## Languages and Technologies
+**`Back End Developer`** 
+
+Olá! Sou um desenvolvedor Back End focado em construir soluções eficientes e escaláveis.
+
+
+
+---
+
+
+**Fale Comigo:**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vitor-oliveira-de-jesus)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:%20dejesusvitoroliveira@gmail.com)
+
+
+
+
+
+---
+###  Linguagens e Tecnologias
 
 ![Java](https://img.shields.io/badge/Java-%23E34F26.svg?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -8,6 +27,26 @@
 ![Git](https://img.shields.io/badge/Git-%23F1502F.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## Other Sections
+---
 
-...
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=devVitoroliveira&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHus" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=devVitoroliveira&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=1" 
+  />
+
+</p>
+       

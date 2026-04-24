@@ -2,7 +2,9 @@
 
 **`Back End Developer`** 
 
-Olá! Sou um desenvolvedor Back End focado em construir soluções eficientes e escaláveis.
+Desenvolvedor de Software com foco em Java, buscando a primeira oportunidade na área. Estudo atualmente Java com SpringBoot, bancos de dados relacionais.
+
+Tenho experiencia em Java, Orientação a objetos, Exceções e tratamentos de erros, Polimorfismo, Herança, API's  REST, Postman, aplicando boas práticas de versionamento com Git e GitHub.
 
 
 

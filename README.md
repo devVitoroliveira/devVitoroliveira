@@ -44,14 +44,14 @@ Tenho experiencia em Java, Orientação a objetos, Exceções e tratamentos de e
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats-lovat-nine-58.vercel.app/api?username=devVitoroliveira&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br&cache_seconds=86400" 
+    src="https://github-readme-stats-lovat-nine-58.vercel.app/api?username=devVitoroliveira&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br&cache_seconds=0" 
   />
 
   <img 
     align="left" 
     alt="Tecnologias" 
     height="200" 
-    src="https://github-readme-stats-lovat-nine-58.vercel.app/api/top-langs/?username=devVitoroliveira&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=5&cache_seconds=86400" 
+    src="https://github-readme-stats-lovat-nine-58.vercel.app/api/top-langs/?username=devVitoroliveira&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=5&cache_seconds=0" 
   />
 </p> 
   />
